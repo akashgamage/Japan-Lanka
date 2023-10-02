@@ -9,9 +9,7 @@ function Login() {
         <img className="img" src={loginImage} alt="Login" />
       
       <div className="login-right">
-        <h1>Japan Lanka<h5>Japanese Language Institute.</h5></h1>
-        
-        <h3>Login</h3>
+        <h1>Login</h1>
         <form className="login-form">
           <div className="form-group">
             <label htmlFor="studentId">Student ID</label>

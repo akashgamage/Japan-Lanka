@@ -21,6 +21,7 @@
     font-size: 56px;
     margin-left: 50px;
     font-family: poppins;
+    margin-top: auto;
   }
 
   .login-right h5 {
@@ -44,7 +45,7 @@
   }
 
   .form-group {
-    margin-bottom: 15px;
+    margin-bottom: 25px;
   }
   
   label {
@@ -77,14 +78,14 @@
     font-family: poppins;
     font-weight: bold;
     display: block; 
-    margin-top: 30px;
-    margin-bottom: 25px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     align-content: center;
   }
 
   p {
     margin-left: 50px;
-    margin-top: 25px;
+    margin-top: 50px;
   }
   
   button:hover {
